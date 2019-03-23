@@ -4,7 +4,7 @@
 
 'use strict'
 
-const badBlockStart = 1015250
+const badBlockStart = 300000
 const DatabaseBackend = require('./lib/databaseBackend')
 const Config = require('./config.json')
 
