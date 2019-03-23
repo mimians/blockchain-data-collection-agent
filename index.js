@@ -22,7 +22,7 @@ const env = {
   },
   node: {
     host: process.env.NODE_HOST || 'localhost',
-    port: process.env.NODE_PORT || 11898
+    port: process.env.NODE_PORT || 39700
   }
 }
 
