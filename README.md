@@ -14,7 +14,7 @@
 1) Clone this repository to wherever you'd like as long as it can communicate with your SQL server to run:
 
 ```bash
-git clone https://github.com/TurtlePay/blockchain-data-collection-agent
+git clone https://github.com/mimians/blockchain-data-collection-agent
 ```
 
 2) Install the required Node.js modules
@@ -34,7 +34,7 @@ export MYSQL_USERNAME=yourdbusername
 export MYSQL_PASSWORD=yourdbpassword
 export MYSQL_DATABASE=yourdbname
 export NODE_HOST=localhost
-export NODE_PORT=11898
+export NODE_PORT=39700
 node index.js
 ```
 
